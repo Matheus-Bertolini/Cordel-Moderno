@@ -1,0 +1,2 @@
+text-transform: uppercase; -> transforma o conteudo em caixa alta (capslook)
+font-variant -> continua-se tendo o conteudo maiusculo, pórem, as primeiras letras são maiores
